@@ -9,6 +9,7 @@ def find_max_value(array)
   max_num = array[0]
   array.length.times do |x|
     if max_num < array[x] then max_num = numbers[x] 
+    end 
   end
   
   puts max_num 
