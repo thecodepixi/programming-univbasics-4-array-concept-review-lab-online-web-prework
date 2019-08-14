@@ -11,7 +11,7 @@ def find_max_value(array)
     if max_num < array[x] then max_num = numbers[x] 
   end
   
-  p max_num 
+  puts max_num 
   
 end
 
