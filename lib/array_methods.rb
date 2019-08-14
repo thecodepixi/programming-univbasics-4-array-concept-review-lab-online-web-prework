@@ -8,7 +8,7 @@ def find_max_value(array)
   # Add your solution here
   max_num = array[0]
   array.length.times do |x|
-    if max_num < array[x] then max_num = numbers[x] 
+    if max_num < array[x] then max_num = array[x] 
     end 
   end
   
