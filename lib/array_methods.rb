@@ -12,7 +12,7 @@ def find_max_value(array)
     end 
   end
   
-  puts max_num 
+  p max_num 
   
 end
 
