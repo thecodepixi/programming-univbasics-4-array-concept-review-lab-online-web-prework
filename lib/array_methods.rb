@@ -7,7 +7,7 @@ end
 def find_max_value(array)
   # Add your solution here
   
-  puts array.max 
+ array.max 
   
 end
 
